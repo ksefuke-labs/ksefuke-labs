@@ -1,9 +1,25 @@
-## 👋 Greetings, I'm Kasonde Anthony Sefuke, but you can call me Kas.
+![Header](./github-header-banner.png)
+
+## About Me
+- I’m a desktop support engineer transitioning to Devops.
+- 4 Year Full Time Linux User (Desktop and Server)
+- I regularly post articles to my [website](https://www.ksefuke-labs.com/)
+- Hobbies: Playing indie games, listening to music and tinkering with my homelab
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
+  </a>
+</p>
 
 
-# Blog posts
+## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
 
 <!--
 **ksefuke-labs/ksefuke-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
