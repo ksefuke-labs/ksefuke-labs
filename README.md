@@ -16,10 +16,10 @@
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Enterprise Grade Firewall Router](https://www.ksefuke-labs.com/articles/opnsense-firewall-router/)
+- [Cloudflare Tunnels &amp; K8s](https://www.ksefuke-labs.com/articles/cloudflare-tunnels/)
+- [Hugo Site Deployment](https://www.ksefuke-labs.com/articles/hugo-site-deployment/)
 - [State of the Homelab 2026](https://www.ksefuke-labs.com/articles/state-of-the-homelab-2026/)
 - [DevOps Part 2 - Starter Projects](https://www.ksefuke-labs.com/articles/devops-part-2---starter-projects/)
-- [DevOps Part 1 - Dive into Kubernetes](https://www.ksefuke-labs.com/articles/devops-part-1---kubernete-fundamentals/)
-- [Arch Linux - CLI Install](https://www.ksefuke-labs.com/articles/arch-linux---cli-install/)
 <!-- BLOG-POST-LIST:END -->
 
 
