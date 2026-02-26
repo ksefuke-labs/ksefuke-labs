@@ -17,9 +17,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Enterprise Grade Firewall Router](https://www.ksefuke-labs.com/articles/enterprise-grade-firewall-router/)
 - [Cloudflare Tunnels &amp; K8s](https://www.ksefuke-labs.com/articles/cloudflare-tunnels--k8s/)
+- [Encrypting Secrets with SOPs](https://www.ksefuke-labs.com/articles/encrypting-secrets-with-sops/)
 - [Hugo Site Deployment](https://www.ksefuke-labs.com/articles/hugo-site-deployment/)
-- [State of the Homelab 2026](https://www.ksefuke-labs.com/articles/state-of-the-homelab-2026/)
-- [DevOps Part 2 - Starter Projects](https://www.ksefuke-labs.com/articles/devops-part-2---k8s-starter-projects/)
+- [State of the Homelab 2026](https://www.ksefuke-labs.com/articles/state-of-homelab-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
